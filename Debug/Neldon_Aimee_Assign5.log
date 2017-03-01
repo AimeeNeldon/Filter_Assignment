@@ -1,0 +1,35 @@
+﻿Build started 11/16/2011 7:02:17 PM.
+     1>Project "H:\IMD2004\Neldon_Aimee_Assign5\Neldon_Aimee_Assign5\Neldon_Aimee_Assign5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Neldon_Aimee_Assign5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Neldon_Aimee_Assign5.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Neldon_Aimee_Assign5.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Neldon_Aimee_Assign5.cpp Neldon_Aimee_Assign5Dlg.cpp
+         Neldon_Aimee_Assign5Dlg.cpp
+         Neldon_Aimee_Assign5.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\Neldon_Aimee_Assign5.res" Neldon_Aimee_Assign5.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Neldon_Aimee_Assign5.exe.embed.manifest.res" Debug\Neldon_Aimee_Assign5_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\IMD2004\Neldon_Aimee_Assign5\Debug\Neldon_Aimee_Assign5.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Neldon_Aimee_Assign5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\IMD2004\Neldon_Aimee_Assign5\Debug\Neldon_Aimee_Assign5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\IMD2004\Neldon_Aimee_Assign5\Debug\Neldon_Aimee_Assign5.lib" /MACHINE:X86 Debug\Neldon_Aimee_Assign5.res
+         Debug\Neldon_Aimee_Assign5.exe.embed.manifest.res
+         Debug\Neldon_Aimee_Assign5.obj
+         Debug\Neldon_Aimee_Assign5Dlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Neldon_Aimee_Assign5.exe.embed.manifest" /manifest Debug\Neldon_Aimee_Assign5.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Neldon_Aimee_Assign5.vcxproj -> H:\IMD2004\Neldon_Aimee_Assign5\Debug\Neldon_Aimee_Assign5.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Neldon_Aimee_Assign5.unsuccessfulbuild".
+         Touching "Debug\Neldon_Aimee_Assign5.lastbuildstate".
+     1>Done Building Project "H:\IMD2004\Neldon_Aimee_Assign5\Neldon_Aimee_Assign5\Neldon_Aimee_Assign5.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:24.33
